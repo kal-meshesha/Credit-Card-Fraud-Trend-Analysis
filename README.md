@@ -1,5 +1,7 @@
 # Credit-Card-Fraud-Trend-Analysis
 ## Fraud Detection | Time-Series Analysis | Tableau &amp; Python | Risk Analytics
+
+** Look at the release to look into the tableau workbook package **
 ### Executive Summary
 
 Financial institutions need to monitor fraud patterns to reduce financial losses and identify high-risk transaction behavior.
